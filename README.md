@@ -31,7 +31,10 @@ I'm a Computer Science student passionate about **Data Science, Artificial Intel
 ### Data Science & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=sklearn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/> 
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/> 
 </p>
 
 **Python • Pandas • NumPy • Scikit-learn • XGBoost • Matplotlib • Statistics**
@@ -39,7 +42,7 @@ I'm a Computer Science student passionate about **Data Science, Artificial Intel
 ### Tools & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite" />
 </p>
 
 **Git • GitHub • VS Code • APIs • SQL • SQLite**
