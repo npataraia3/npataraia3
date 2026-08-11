@@ -6,9 +6,8 @@
 
 *Building, learning, and turning ideas into data-driven products.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-[![daily.dev](https://img.shields.io/badge/daily.dev-Follow-black?logo=daily.dev\&logoColor=white)](YOUR_DAILYDEV_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?logo=google-chrome\&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nino-pataraia-1057b5422/)
+[![daily.dev](https://img.shields.io/badge/daily.dev-Follow-black?logo=daily.dev\&logoColor=white)](https://daily.dev/ninopataraia)
 
 </div>
 
@@ -16,9 +15,7 @@
 
 ## 👋 About Me
 
-I'm a Computer Science student passionate about **Data Science, Artificial Intelligence, and Python development**. I enjoy turning complex problems into practical solutions and learning by building real-world projects.
-
-Currently, I'm focused on strengthening my skills in **data analysis, machine learning, AI, and software development** while documenting what I learn along the way.
+I'm a Computer Science student passionate about **Data Science, Artificial Intelligence, and Python development**. I enjoy turning complex problems into practical solutions and learning by building real-world projects. Currently, I'm focused on strengthening my skills in **data analysis, machine learning, AI, and software development** while documenting what I learn along the way.
 
 ---
 
