@@ -38,7 +38,9 @@ alt="Building, learning, and turning ideas into data-driven products."
 
 <br><br>
 
-<!-- DEVCARD -->
+
+
+<!-- RIGHT PANEL -->
 <a href="https://daily.dev/ninopataraia">
 <img
 src="https://api.daily.dev/devcards/v2/CGwgl7WgTTg8u6WKq3Xj6.png?type=wide&r=wuj"
@@ -49,8 +51,6 @@ alt="Nino Pataraia's Dev Card"
 
 </td>
 
-
-<!-- RIGHT PANEL -->
 <td width="42%" valign="top" align="center">
 
 <br><br>
