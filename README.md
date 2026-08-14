@@ -54,6 +54,7 @@ alt="Nino Pataraia's Dev Card"
 </tr>
 </table>
 
+
 ---
 
 <div align="center">
@@ -72,14 +73,29 @@ alt="Nino Pataraia's Dev Card"
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,sql&theme=dark"/>
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=sql&theme=dark" width="48"/>
+</td>
+<td align="center">
+</td>
+</tr>
+</table>
 
-<br><br>
+<br>
 
 **Python • C++ • SQL**
 
 </td>
-
 
 
 <td width="34%" valign="top" align="center">
@@ -88,29 +104,43 @@ alt="Nino Pataraia's Dev Card"
 
 <br>
 
+<table>
+<tr>
+<td align="center">
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-width="42"
+width="48"
 alt="Pandas"
 />
-
+</td>
+<td align="center">
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-width="42"
+width="48"
 alt="NumPy"
 />
+</td>
+</tr>
 
+<tr>
+<td align="center">
 <img
 src="https://skillicons.dev/icons?i=sklearn&theme=dark"
+width="48"
+alt="Scikit-learn"
 />
-
+</td>
+<td align="center">
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"
-width="42"
+width="48"
 alt="Matplotlib"
 />
+</td>
+</tr>
+</table>
 
-<br><br>
+<br>
 
 **Python • Pandas • NumPy • Scikit-learn • XGBoost • Matplotlib • Statistics**
 
@@ -124,9 +154,27 @@ alt="Matplotlib"
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite&theme=dark"/>
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/>
+</td>
+</tr>
 
-<br><br>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48"/>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48"/>
+</td>
+</tr>
+</table>
+
+<br>
 
 **Git • GitHub • VS Code • APIs • SQL • SQLite**
 
@@ -134,16 +182,5 @@ alt="Matplotlib"
 
 </tr>
 </table>
-
-</div>
-
----
-
-<div align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:4c1d95,70:2563eb,100:0f172a&height=80&section=footer&animation=fadeIn"
-width="100%"
-/>
 
 </div>
