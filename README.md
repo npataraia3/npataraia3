@@ -73,20 +73,20 @@ alt="Nino Pataraia's Dev Card"
 
 <br>
 
-<table>
+<table align="center" border="0" cellspacing="0" cellpadding="8">
 <tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/>
 </td>
+
 <td align="center">
 <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48"/>
 </td>
 </tr>
+
 <tr>
-<td align="center">
+<td align="center" colspan="2">
 <img src="https://skillicons.dev/icons?i=sql&theme=dark" width="48"/>
-</td>
-<td align="center">
 </td>
 </tr>
 </table>
