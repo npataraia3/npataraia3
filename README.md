@@ -1,12 +1,16 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0f172a,50:1d4ed8,75:6d28d9,100:020617&height=190&section=header&text=&fontSize=0&animation=twinkling"
-  width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e3a8a,70:4c1d95,100:0f172a&height=120&section=header&animation=fadeIn"
+width="100%"
 />
 
-<br>
+</div>
+
+<table>
+<tr>
+
+<td width="55%" valign="middle">
 
 # 👋 Hi, I'm Nino
 
@@ -16,8 +20,8 @@
 
 <a href="https://readme-typing-svg.demolab.com">
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=Building%2C+learning%2C+and+turning+ideas+into+data-driven+products."
-  alt="Building, learning, and turning ideas into data-driven products."
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=60A5FA&center=false&vCenter=true&width=520&lines=Building%2C+learning%2C+and+turning+ideas+into+data-driven+products."
+alt="Building, learning, and turning ideas into data-driven products."
 />
 </a>
 
@@ -26,88 +30,71 @@
 <a href="https://www.linkedin.com/in/nino-pataraia-1057b5422/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
+
 <a href="https://daily.dev/ninopataraia">
 <img src="https://img.shields.io/badge/daily.dev-Follow-111827?style=for-the-badge&logo=daily.dev&logoColor=white"/>
 </a>
 
-<br><br>
+</td>
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-1e293b?style=flat-square" width="420"/>
+<td width="45%" align="center">
 
-</div>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=ninopataraia&bg_color=0f172a&color=60a5fa&line=7c3aed&point=38bdf8&area=true&hide_border=true"
+width="100%"
+/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-<div align="center">
-
-## 👋 About Me
-
-</div>
-
-<div align="center">
-
 <table>
 <tr>
-<td align="center">
+
+<td width="50%" valign="top">
+
+## 👋 About Me
 
 I'm a Computer Science student passionate about **Data Science, Artificial Intelligence, and Python development**. I enjoy turning complex problems into practical solutions and learning by building real-world projects. Currently, I'm focused on strengthening my skills in **data analysis, machine learning, AI, and software development** while documenting what I learn along the way.
 
 </td>
-</tr>
-</table>
 
-</div>
-
-<br>
-
----
-
-<div align="center">
+<td width="50%" valign="top">
 
 ## 🧠 Tech Stack
 
-<br>
-
 ### Languages & Core
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,sql&theme=dark" />
-
-<br><br>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,sql&theme=dark"/>
+</p>
 
 ### Data Science & Machine Learning
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="52" height="52" alt="Pandas"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="52" height="52" alt="NumPy"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="52" height="52" alt="Matplotlib"/>
-
-<br><br>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42"/>
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="42"/>
+</p>
 
 **Python • Pandas • NumPy • Scikit-learn • XGBoost • Matplotlib • Statistics**
 
-<br><br>
-
 ### Tools & Development
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite&theme=dark" />
-
-<br><br>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite&theme=dark"/>
+</p>
 
 **Git • GitHub • VS Code • APIs • SQL • SQLite**
 
-</div>
+</td>
 
-<br>
+</tr>
+</table>
 
 ---
 
@@ -115,35 +102,23 @@ I'm a Computer Science student passionate about **Data Science, Artificial Intel
 
 ## 💻 DevCard
 
-<br>
-
-<table>
-<tr>
-<td>
-
 <a href="https://daily.dev/ninopataraia">
 <img
-  src="https://api.daily.dev/devcards/v2/CGwgl7WgTTg8u6WKq3Xj6.png?type=wide&r=wuj"
-  width="652"
-  alt="Nino Pataraia's Dev Card"
+src="https://api.daily.dev/devcards/v2/CGwgl7WgTTg8u6WKq3Xj6.png?type=wide&r=wuj"
+width="652"
+alt="Nino Pataraia's Dev Card"
 />
 </a>
 
-</td>
-</tr>
-</table>
-
-<br>
-
 </div>
 
----
+<br>
 
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:6d28d9,50:2563eb,75:0ea5e9,100:020617&height=130&section=footer&animation=twinkling"
-  width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:4c1d95,70:2563eb,100:0f172a&height=90&section=footer&animation=fadeIn"
+width="100%"
 />
 
 </div>
