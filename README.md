@@ -10,8 +10,8 @@ width="100%"
 <table width="100%">
 <tr>
 
-<!-- LEFT PANEL -->
-<td width="58%" valign="top">
+<!-- LEFT: PROFILE -->
+<td width="50%" valign="middle">
 
 # 👋 Hi, I'm Nino
 
@@ -21,7 +21,7 @@ width="100%"
 
 <a href="https://readme-typing-svg.demolab.com">
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=60A5FA&center=false&vCenter=true&width=520&lines=Building%2C+learning%2C+and+turning+ideas+into+data-driven+products."
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=60A5FA&center=false&vCenter=true&width=500&lines=Building%2C+learning%2C+and+turning+ideas+into+data-driven+products."
 alt="Building, learning, and turning ideas into data-driven products."
 />
 </a>
@@ -36,11 +36,11 @@ alt="Building, learning, and turning ideas into data-driven products."
 <img src="https://img.shields.io/badge/daily.dev-Follow-111827?style=for-the-badge&logo=daily.dev&logoColor=white"/>
 </a>
 
-<br><br>
+</td>
 
+<!-- RIGHT: DEVCARD -->
+<td width="50%" valign="middle" align="center">
 
-
-<!-- RIGHT PANEL -->
 <a href="https://daily.dev/ninopataraia">
 <img
 src="https://api.daily.dev/devcards/v2/CGwgl7WgTTg8u6WKq3Xj6.png?type=wide&r=wuj"
@@ -48,19 +48,6 @@ width="100%"
 alt="Nino Pataraia's Dev Card"
 />
 </a>
-
-</td>
-
-<td width="42%" valign="top" align="center">
-
-<br><br>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=ninopataraia&bg_color=0f172a&color=60a5fa&line=7c3aed&point=38bdf8&area=true&hide_border=true"
-width="100%"
-/>
-
-<br><br>
 
 </td>
 
