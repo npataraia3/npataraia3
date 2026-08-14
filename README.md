@@ -57,126 +57,128 @@ alt="Nino Pataraia's Dev Card"
 
 ---
 
+
 <div align="center">
 
 ## 🧠 Tech Stack
 
 <br>
 
-<table width="100%">
+<table width="100%" border="0">
 <tr>
 
 
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top" align="center" style="border: none; background: transparent;">
 
-### Languages & Core
+<h3>Languages & Core</h3>
 
 <br>
 
-<table align="center" border="0" cellspacing="0" cellpadding="8">
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/>
+<p align="center">
+<img
+src="https://skillicons.dev/icons?i=python&theme=dark"
+width="48"
+alt="Python"
+/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img
+src="https://skillicons.dev/icons?i=cpp&theme=dark"
+width="48"
+alt="C++"
+/>
+</p>
+
+
+
+<p align="center">
+<strong>Python • C++ • SQL</strong>
+</p>
+
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48"/>
-</td>
-</tr>
 
-<tr>
-<td align="center" colspan="2">
-<img src="https://skillicons.dev/icons?i=sql&theme=dark" width="48"/>
-</td>
-</tr>
-</table>
+<td width="34%" valign="top" align="center" style="border: none; background: transparent;">
+
+<h3>Data Science & Machine Learning</h3>
 
 <br>
 
-**Python • C++ • SQL**
-
-</td>
-
-
-<td width="34%" valign="top" align="center">
-
-### Data Science & Machine Learning
-
-<br>
-
-<table>
-<tr>
-<td align="center">
+<p align="center">
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
 width="48"
+height="48"
 alt="Pandas"
 />
-</td>
-<td align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
 width="48"
+height="48"
 alt="NumPy"
 />
-</td>
-</tr>
+</p>
 
-<tr>
-<td align="center">
+<p align="center">
 <img
 src="https://skillicons.dev/icons?i=sklearn&theme=dark"
 width="48"
 alt="Scikit-learn"
 />
-</td>
-<td align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"
 width="48"
+height="48"
 alt="Matplotlib"
 />
+</p>
+
+<p align="center">
+<strong>Python • Pandas • NumPy • Scikit-learn • XGBoost • Matplotlib • Statistics</strong>
+</p>
+
 </td>
-</tr>
-</table>
+
+
+
+<td width="33%" valign="top" align="center" style="border: none; background: transparent;">
+
+<h3>Tools & Development</h3>
 
 <br>
 
-**Python • Pandas • NumPy • Scikit-learn • XGBoost • Matplotlib • Statistics**
+<p align="center">
+<img
+src="https://skillicons.dev/icons?i=git&theme=dark"
+width="48"
+alt="Git"
+/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img
+src="https://skillicons.dev/icons?i=github&theme=dark"
+width="48"
+alt="GitHub"
+/>
+</p>
 
-</td>
+<p align="center">
+<img
+src="https://skillicons.dev/icons?i=vscode&theme=dark"
+width="48"
+alt="VS Code"
+/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img
+src="https://skillicons.dev/icons?i=sqlite&theme=dark"
+width="48"
+alt="SQLite"
+/>
+</p>
 
-
-
-<td width="33%" valign="top" align="center">
-
-### Tools & Development
-
-<br>
-
-<table>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48"/>
-</td>
-</tr>
-</table>
-
-<br>
-
-**Git • GitHub • VS Code • APIs • SQL • SQLite**
+<p align="center">
+<strong>Git • GitHub • VS Code • APIs • SQL • SQLite</strong>
+</p>
 
 </td>
 
@@ -184,3 +186,5 @@ alt="Matplotlib"
 </table>
 
 </div>
+
+---
