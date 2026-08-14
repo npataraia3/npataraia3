@@ -7,10 +7,11 @@ width="100%"
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="55%" valign="middle">
+<!-- LEFT PANEL -->
+<td width="58%" valign="top">
 
 # 👋 Hi, I'm Nino
 
@@ -35,14 +36,31 @@ alt="Building, learning, and turning ideas into data-driven products."
 <img src="https://img.shields.io/badge/daily.dev-Follow-111827?style=for-the-badge&logo=daily.dev&logoColor=white"/>
 </a>
 
+<br><br>
+
+<!-- DEVCARD -->
+<a href="https://daily.dev/ninopataraia">
+<img
+src="https://api.daily.dev/devcards/v2/CGwgl7WgTTg8u6WKq3Xj6.png?type=wide&r=wuj"
+width="100%"
+alt="Nino Pataraia's Dev Card"
+/>
+</a>
+
 </td>
 
-<td width="45%" align="center">
+
+<!-- RIGHT PANEL -->
+<td width="42%" valign="top" align="center">
+
+<br><br>
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=ninopataraia&bg_color=0f172a&color=60a5fa&line=7c3aed&point=38bdf8&area=true&hide_border=true"
 width="100%"
 />
+
+<br><br>
 
 </td>
 
@@ -51,7 +69,7 @@ width="100%"
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -97,22 +115,6 @@ I'm a Computer Science student passionate about **Data Science, Artificial Intel
 </table>
 
 ---
-
-<div align="center">
-
-## 💻 DevCard
-
-<a href="https://daily.dev/ninopataraia">
-<img
-src="https://api.daily.dev/devcards/v2/CGwgl7WgTTg8u6WKq3Xj6.png?type=wide&r=wuj"
-width="652"
-alt="Nino Pataraia's Dev Card"
-/>
-</a>
-
-</div>
-
-<br>
 
 <div align="center">
 
