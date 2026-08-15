@@ -7,6 +7,8 @@ width="100%"
 
 </div>
 
+---
+
 <table width="100%">
 <tr>
 
@@ -182,3 +184,11 @@ alt="SQLite"
 </div>
 
 ---
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e3a8a,70:4c1d95,100:0f172a&height=110&section=footer&animation=fadeIn"
+width="100%"
+/>
+
+</div>
