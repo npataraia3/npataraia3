@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e3a8a,70:4c1d95,100:0f172a&height=110&section=header&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:1e3a8a,50:06b6d4,75:7c3aed,100:020617&height=150&section=header&animation=twinkling"
 width="100%"
 />
 
@@ -187,7 +187,7 @@ alt="SQLite"
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e3a8a,70:4c1d95,100:0f172a&height=110&section=footer&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:1e3a8a,50:06b6d4,75:7c3aed,100:020617&height=150&section=footer&animation=twinkling"
 width="100%"
 />
 
