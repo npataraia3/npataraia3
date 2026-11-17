@@ -41,15 +41,6 @@ I'm a Computer Science student passionate about <b>Data Science, Artificial Inte
 
 
 
-<td width="50%" valign="middle" align="center">
-
-<a href="https://daily.dev/ninopataraia"><img src="https://api.daily.dev/devcards/v2/CGwgl7WgTTg8u6WKq3Xj6.png?type=default&r=lwq" width="356" alt="Nino Pataraia's Dev Card"/></a>
-
-</td>
-
-</tr>
-</table>
-
 
 ---
 
