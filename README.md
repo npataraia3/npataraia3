@@ -13,7 +13,7 @@ width="100%"
 <tr>
 
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 # 👋 Hi, I'm Nino
 
