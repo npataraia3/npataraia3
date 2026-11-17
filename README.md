@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img
@@ -8,12 +9,6 @@ width="100%"
 </div>
 
 ---
-
-<table width="100%">
-<tr>
-
-
-<td width="100%" valign="top">
 
 # 👋 Hi, I'm Nino
 
@@ -37,13 +32,9 @@ I'm a Computer Science student passionate about <b>Data Science, Artificial Inte
 <img src="https://img.shields.io/badge/daily.dev-Follow-111827?style=for-the-badge&logo=daily.dev&logoColor=white"/>
 </a>
 
-</td>
-
-
-
+<br><br>
 
 ---
-
 
 <div align="center">
 
@@ -53,7 +44,6 @@ I'm a Computer Science student passionate about <b>Data Science, Artificial Inte
 
 <table width="100%" border="0">
 <tr>
-
 
 <td width="33%" valign="top" align="center" style="border: none; background: transparent;">
 
@@ -75,14 +65,11 @@ alt="C++"
 />
 </p>
 
-
-
 <p align="center">
 <strong>Python • C++ • SQL</strong>
 </p>
 
 </td>
-
 
 <td width="34%" valign="top" align="center" style="border: none; background: transparent;">
 
@@ -126,8 +113,6 @@ alt="Matplotlib"
 </p>
 
 </td>
-
-
 
 <td width="33%" valign="top" align="center" style="border: none; background: transparent;">
 
@@ -175,6 +160,7 @@ alt="SQLite"
 </div>
 
 ---
+
 <div align="center">
 
 <img
